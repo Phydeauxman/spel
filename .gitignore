@@ -56,3 +56,4 @@ packer_cache
 *.exe
 /packer
 __pycache__
+variables.json
